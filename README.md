@@ -9,7 +9,7 @@
   <h5>Influence Analysis:</h5> Finding influential individuals or detecting information spread (e.g., viral content).
   Graphs help model these relationships and allow algorithms to identify patterns, communities, and influences that are central to social media platforms.
 
-<h4>Structure of the Graph:</h4>
+<bold>Structure of the Graph:</bold>
   <h5>Type:</h5> Undirected or directed, depending on the relationship. For example, friendships are typically undirected (if A is friends with B, then B is friends with A), while following relationships on platforms like Twitter are directed (if A follows B, B may or may not follow A).
   Weighted or Unweighted: Can be either. For example, in a recommendation system, edges could be weighted to represent the strength of the relationship (e.g., frequency of interactions, common interests).
   <h5>Complexity:</h5> Often large and dynamic, as the social network is continuously growing and changing.
