@@ -1,7 +1,7 @@
 # W8-S2-Practice-Graph
 <h1>Exercise 3:</h1>
 <h3>Real-World Scenario: Social Network Analysis</h3>
-<bold>Use Case (How Graph Solves the Problem):</bold>
+<h4>Use Case (How Graph Solves the Problem):</h4>
   In social network analysis, graphs are used to represent individuals (nodes) and the relationships or interactions between them (edges). This structure allows for the modeling of complex social dynamics, such as friendships, followers, or professional connections. Social networks like Facebook, Twitter, and LinkedIn use graph-based algorithms to solve problems such as:
   
   <h5>Recommendation Systems:</h5> Suggesting new friends, followers, or connections based on shared connections.
